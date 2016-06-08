@@ -6,7 +6,7 @@
 		.directive("login", function() {
 			return {
 					restrict : 'E',	
-					templateUrl : 'login.html'	
+					templateUrl : 'bower_components/logindirective/login.html'	
 			};
 		});
 })();
